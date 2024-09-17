@@ -108,7 +108,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadfikri4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadfikri4&layout=compact&langs_count=8&theme=algolia"/>
     <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfikri4&theme=algolia&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Muhamad Fikrianto Aji's github stats" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadgibran16&theme=react-dark&hide_border=false" alt="Muhamad Fikrianto Aji's activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfikri4&theme=react-dark&hide_border=false" alt="Muhamad Fikrianto Aji's activity graph" />
   </a>
   
 
