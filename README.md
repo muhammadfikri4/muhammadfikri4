@@ -17,8 +17,7 @@
 </tr>
 </table>
 
-![Muhammadfikri's card name](https://cardivo.vercel.app/api?name=Muhammad%20Fikri&description=<b>Fullstack%20Engineer%20Enthusiast%20</b><br/>%20&image=https://raw.githubusercontent.com/muhammadfikri4/main/Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
-
+![Muhammadfikri's card name](https://cardivo.vercel.app/api?name=Muhammad%20Fikri&description=<b>Fullstack%20Engineer%20Enthusiast%20</b><br/>%20&image=https://raw.githubusercontent.com/muhammadfikri4/main/avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
 
 <h2 align='center'>Languages and Tools</h2>
 <table width="100">
@@ -100,7 +99,6 @@
 - ⚡ Fun fact: ...?
 -->
 
-
 <h2 align="center"> Statistics </h2>
 <div align="let">
   <!-- <p align="left"> -->
@@ -110,18 +108,15 @@
     <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfikri4&theme=algolia&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Muhamad Fikrianto Aji's github stats" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfikri4&theme=react-dark&hide_border=false" alt="Muhamad Fikrianto Aji's activity graph" />
   </a>
-  
+
 
 <!--</p>-->
 
   <!--<a href="https://github.com/muhammadfikri4/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=muhammadfikri4&show_icons=true&include_all_commits=true&theme=algolia" alt="Muhamad Fikrianto Aji's github Statistic's" width="440x" />
   </a>-->
-  
 
 </div>
-
-
 
 <h2 align="center"> Trophies </h2>
 
