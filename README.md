@@ -17,7 +17,7 @@
 </tr>
 </table>
 
-![Muhammadfikri's card name](https://cardivo.vercel.app/api?name=Muhammad%20Fikri&description=<b>Fullstack%20Engineer%20Enthusiast%20</b><br/>%20&image=https://raw.githubusercontent.com/muhammadfikri4/muhammadfikri4/main/Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
+![Muhammadfikri's card name](https://cardivo.vercel.app/api?name=Muhammad%20Fikri&description=<b>Fullstack%20Engineer%20Enthusiast%20</b><br/>%20&image=https://raw.githubusercontent.com/muhammadfikri4/main/Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
 
 
 <h2 align='center'>Languages and Tools</h2>
